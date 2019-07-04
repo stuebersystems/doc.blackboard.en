@@ -1,0 +1,3 @@
+# Introduction
+
+CONFIRE BLACKBOARD digital signage software enables quality display content to be supplied to your screens or digital blackboards quickly and simply. The CONFIRE BLACKBOARD software comprises two modules: the Designer, used for fast, user-friendly definition of screen layouts without previous specialist knowledge and the Player for playback of presentations on display screens. Text, pictures, flash or video files and more besides can all be used as content.
