@@ -2,7 +2,7 @@
 
 This is the English documentation for CONFIRE BLACKBOARD. The documentation is Open Source and we have implemented it using [GitBook](https://github.com/GitbookIO/gitbook).
 
-:fire: The open source version of GitBook used here is no longer under active development. The current version of GitBook is not open source. 
+:fire: *The open source version of GitBook used here is no longer under active development. The current version of GitBook is not open source.*
 
 ## Install GitBook for Windows
 
